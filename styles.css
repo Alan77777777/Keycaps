@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    border: 2px solid black;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+}
+
+.box ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    list-style-type: none;
+    color: white;
+    text-align: center;
+}
+
+.box ul li {
+    font-family: fantasy;
+    font-size: 40px;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    line-height: 70px;
+    background-color: black;
+}
+
+.box ul li:hover {
+    background-color: coral;
+    color: black;
+}
+
+#campo_texto {
+    border: 1px solid black;
+    width: 90%;
+    margin: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    align-self: center;
+}
