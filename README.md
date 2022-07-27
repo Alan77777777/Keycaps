@@ -14,7 +14,7 @@
 
 ### Links 
 
-🔗 Live Site URL: [https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/](https://huddle-landing-page-with-alternating-feature-blocks-solution.netlify.app/)
+🔗 Live Site URL: [keycaps.netlify.app](keycaps.netlify.app)
 
 ### Built with 
 
