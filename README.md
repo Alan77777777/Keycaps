@@ -14,7 +14,7 @@
 
 ### Links 
 
-🔗 Live Site URL: [keycaps.netlify.app](keycaps.netlify.app)
+🔗 Live Site URL: [https://keycaps.netlify.app/](https://keycaps.netlify.app/)
 
 ### Built with 
 
